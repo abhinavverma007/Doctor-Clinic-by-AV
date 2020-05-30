@@ -11,7 +11,7 @@ Many times we <b>waste hours</b> at Doctor's clinic to get ourselves checked. Wh
 (v) Form validation, won't submit your incorrect details.
 
 
-What new things I learnt:
+<h3> What new things I learnt:</h3>
 1) Date Picker
 2) Custom Sorting Table by a column
 3) CRUD Operations
