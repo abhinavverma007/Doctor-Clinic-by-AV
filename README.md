@@ -12,11 +12,11 @@ Many times we <b>waste hours</b> at Doctor's clinic to get ourselves checked. Wh
 
 
 <h3> What new things I learnt:</h3>
-1) Date Picker
-2) Custom Sorting Table by a column
-3) CRUD Operations
-4) React Router and React Bootstrap
-4) Date Object of JavaScript and it's usage in practical
+1) Date Picker <br>
+2) Custom Sorting Table by a column <br>
+3) CRUD Operations <br>
+4) React Router and React Bootstrap <br>
+4) Date Object of JavaScript and it's usage in practical <br>
 
 
 <hr></hr>
