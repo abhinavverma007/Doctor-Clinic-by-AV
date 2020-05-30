@@ -16,7 +16,7 @@ Many times we <b>waste hours</b> at Doctor's clinic to get ourselves checked. Wh
 2) Custom Sorting Table by a column <br>
 3) CRUD Operations <br>
 4) React Router and React Bootstrap <br>
-4) Date Object of JavaScript and it's usage in practical <br>
+5) Date Object of JavaScript and it's usage in practical <br>
 
 
 <hr></hr>
