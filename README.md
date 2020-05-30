@@ -1,3 +1,16 @@
+<h4>The project is in development.
+
+Many times we waste hours at Doctor's clinic to get ourselves checked. What if we know, <strong>sitting at home </strong>, when is our turn next, so that we can plan our day accordingly.</h4>
+
+Features:
+(i) Book an appointment with the doctor.
+(ii) See the patient list at doctor's clinic.
+What new things I learnt:
+1) Date Picker
+2) Custom Sorting Table by a column
+3) CRUD Operations
+
+
 <hr></hr>
 
 
