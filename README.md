@@ -3,7 +3,7 @@ Technology Used are Express, React for front End, MongoDB for Database, Mongoose
   <hr>
 Many times we <b>waste hours</b> at Doctor's clinic to get ourselves checked. What if we know, <strong>sitting at home </strong>, when is our turn next, so that we can plan our day accordingly.</h4>
 
-<h5>Features:</h5><br/>
+<h3>Features:</h3><br/>
 (i) Book an appointment with the doctor<br>
 (ii) See the patient list at doctor's clinic<br>
 (iii) <strong> Update</strong> the details, if any discrepancy online<br>
