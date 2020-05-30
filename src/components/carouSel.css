@@ -1,0 +1,19 @@
+img{
+    max-height: 400px;    
+    display: inline;
+    background-size: cover;
+    border-radius: 1%;
+}
+.carousel3{
+    margin: auto;
+    position: relative;
+}
+#ab{
+    color:yellow;
+    font-weight: bolder;
+    
+}
+.btn-success{
+    border-style: solid;
+    border-color: black;
+}

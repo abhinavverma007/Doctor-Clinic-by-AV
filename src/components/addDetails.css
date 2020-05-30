@@ -1,0 +1,81 @@
+.form-control {
+  width: auto;
+}
+label {
+  text-align: left;
+  float: left;
+  padding-right: 10px;
+}
+.submitbutton {
+  display: inline-block;
+}
+.appoint {
+  width: 100%;
+}
+option {
+  max-height: 10px;
+}
+form {
+  display: inline-block;
+  border-radius: 10%;
+  border-style: solid;
+  border-width: thick;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  font-family: "Oswald";
+}
+.makeitcenter {
+  background-color: white;
+  border-color: red;
+}
+#div1,#div2,#div3{
+    float: left;
+}
+#div3{
+    background-color: lightblue;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+@media screen and (max-width: 500px) {
+  .form-control {
+    width: auto;
+  }
+  label {
+    text-align: left;
+    float: left;
+    padding-right: 10px;
+  }
+  .submitbutton {
+    display: inline-block;
+  }
+  .appoint {
+    width: 100%;
+  }
+  option {
+    max-height: 10px;
+  }
+  form {
+    display: inline-block;
+    border-radius: 10%;
+    border-style: solid;
+    border-width: thick;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    font-family: "Oswald";
+  }
+  .makeitcenter {
+    background-color: white;
+    border-color: red;
+  }
+  button{
+      display: inline-block;
+  }
+  #div1,#div2,#div3{
+    float: left;
+}
+
+
+}

@@ -1,0 +1,63 @@
+table {
+  width: 90%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+th,
+td {
+  word-wrap: break-word;
+}
+.jumbotron {
+  margin-right: 5px;
+  margin-left: 1px;
+}
+@media screen and (max-width: 500 px) {
+  table,
+  thead,
+  tbody,
+  th,
+  td,
+  tr {
+    display: block;
+  }
+  thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  td {
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 200px;
+    margin-left: 150px;
+  }
+  td:before {
+    position: absolute;
+    top: 12px;
+    left: 6px;
+    width: 200px;
+    padding-right: 40px;
+    white-space: nowrap;
+    margin-left: -150px;
+  }
+  td:nth-of-type(1):before {
+    content: "Option";
+  }
+  td:nth-of-type(2):before {
+    content: "Description";
+  }
+  td:nth-of-type(3):before {
+    content: "Type";
+  }
+  td:nth-of-type(4):before {
+    content: "Default";
+  }
+  div {
+    width: 90%;
+  }
+  .jumbotron {
+    margin-right: 5px;
+    margin-left: 1px;
+  }
+}
