@@ -1,4 +1,4 @@
-<h4>The project is in development.<br/>
+<h4>The project is in development.I will deploy it soon <br>
 Technology Used are Express, React for front End, MongoDB for Database, Mongoose Library and Nodejs for Backend
   <hr>
 Many times we <b>waste hours</b> at Doctor's clinic to get ourselves checked. What if we know, <strong>sitting at home </strong>, when is our turn next, so that we can plan our day accordingly.</h4>
