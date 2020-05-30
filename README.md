@@ -1,14 +1,22 @@
-<h4>The project is in development.
+<h4>The project is in development.<br/>
+Technology Used are Express, React for front End, MongoDB for Database, Mongoose Library and Nodejs for Backend
+  <hr>
+Many times we <b>waste hours</b> at Doctor's clinic to get ourselves checked. What if we know, <strong>sitting at home </strong>, when is our turn next, so that we can plan our day accordingly.</h4>
 
-Many times we waste hours at Doctor's clinic to get ourselves checked. What if we know, <strong>sitting at home </strong>, when is our turn next, so that we can plan our day accordingly.</h4>
+Features:<br/>
+(i) Book an appointment with the doctor<br>
+(ii) See the patient list at doctor's clinic<br>
+(iii) <strong> Update</strong> the details, if any discrepancy online<br>
+(iv) <strong>Delete</strong> your appointment online <br>
+(v) Form validation, won't submit your incorrect details.
 
-Features:
-(i) Book an appointment with the doctor.
-(ii) See the patient list at doctor's clinic.
+
 What new things I learnt:
 1) Date Picker
 2) Custom Sorting Table by a column
 3) CRUD Operations
+4) React Router and React Bootstrap
+4) Date Object of JavaScript and it's usage in practical
 
 
 <hr></hr>
